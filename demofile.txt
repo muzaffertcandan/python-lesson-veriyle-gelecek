@@ -1,0 +1,3 @@
+Selamlar bu benim demo dosyam
+Dosya açma kapama işlemlerini öğreniyoruz
+3. satır burada bunlar yeni satır bunlar yeni satır
