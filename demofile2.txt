@@ -1,4 +1,1 @@
-Selamlar
-demo 2
-dosyası
-burada
+bu bir yazıdır
